@@ -1,7 +1,8 @@
-- Mi nombre es: Miguel Angel Munoz
-- Apasionado por la programacion 
-- Busco ser de utilidad para grandes empresas. 
-- Instagram: @migue.zaurio 
+- Miguel Angel Munoz
+- Atlethe PKFR  
+- Programmer
+- THEWINTHERDMC@GMAIL.COM 
+- IG: @migue.zaurio 
 
 <!---
 MigueZaurio/MigueZaurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
