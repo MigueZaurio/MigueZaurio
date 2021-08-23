@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MigueZaurio
-- 👀 I’m interested in PROGRAMS 
-- 🌱 I’m currently learning PROGRAMS
-- 💞️ I’m looking to collaborate on SOMEONE
-- 📫 How to reach me ...
+- mi nombre es Miguel Angel Munoz
+- apasionado por la programacion 
+- busco mejorar mis habilidades con el proposito de ser de utilidad para grandes empresas. 
+- instagram: @migue.zaurio 
 
 <!---
 MigueZaurio/MigueZaurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
