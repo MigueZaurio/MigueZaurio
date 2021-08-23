@@ -1,7 +1,7 @@
-- mi nombre es Miguel Angel Munoz
-- apasionado por la programacion 
-- busco mejorar mis habilidades con el proposito de ser de utilidad para grandes empresas. 
-- instagram: @migue.zaurio 
+- Mi nombre es: Miguel Angel Munoz
+- Apasionado por la programacion 
+- Busco ser de utilidad para grandes empresas. 
+- Instagram: @migue.zaurio 
 
 <!---
 MigueZaurio/MigueZaurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
