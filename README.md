@@ -1,8 +1,8 @@
 - Miguel Angel Munoz
 - Programmer 
 - Social media:
-- FACEBOOK: Miguel Angel Muñoz
-- INSTAGRAM: @migue.zaurio 
+- Facebook: Miguel Angel Muñoz
+- Instagram: @migue.zaurio 
 - Thewintherdmc@gmail.com
 
 <!---
